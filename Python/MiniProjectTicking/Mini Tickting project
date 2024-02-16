@@ -1,0 +1,10 @@
+"Predict the Run, Investigate and modify"
+
+print("Welcome to Parking Bay","\n""Adult £20","\n""Child £12","\n""Senior citizen £11")
+
+numAdultTickets = input("How many adult tickets are required?")
+numChildTickets = input("How many Child tickets are required?")
+numSeniorTickets = input("How many adult tickets are required?")
+
+firstName = input("What is your first name?")
+lastName = input("What is your first name?")

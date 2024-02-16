@@ -1,0 +1,13 @@
+The Films Menu options.
+
+1. Print all records.
+
+2. Add a record.
+
+3. Update a record.
+
+4. Delete a record.
+
+5. Report.
+
+6. Exit the Film App.
